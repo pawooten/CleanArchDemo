@@ -1,5 +1,5 @@
 ﻿using CleanArch.Domain.Models;
-using CleanArch.Domain.Models.Interfaces;
+using CleanArch.Domain.Interfaces;
 using CleanArch.Infra.Data.Context;
 using System;
 using System.Collections.Generic;

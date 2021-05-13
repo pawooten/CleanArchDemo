@@ -1,6 +1,6 @@
 ﻿using CleanArch.Application.Interfaces;
 using CleanArch.Application.Services;
-using CleanArch.Domain.Models.Interfaces;
+using CleanArch.Domain.Interfaces;
 using CleanArch.Infra.Data.Repository;
 using Microsoft.Extensions.DependencyInjection;
 using System;
